@@ -1,2 +1,1 @@
-# Greateful-Gig-Personal-Proj
-Personal project application to help spread gratitude. 
+Personal Project. Greateful Gig is a full stack Intelij and Android Studio application with the purpose of spreading gratitude.
